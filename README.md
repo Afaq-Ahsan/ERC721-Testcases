@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+contract is deployed on Goerli testnet here is the link
+https://goerli.etherscan.io/address/0xa2ec3FCf6F4019e3411832fa7a93d403eE136aa1#code
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+contract is deployed and varify using hardhat
